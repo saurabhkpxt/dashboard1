@@ -1,2 +1,1 @@
-# dashboard1
-Created with CodeSandbox
+https://uploads.codesandbox.io/uploads/user/bb2e1df1-dd12-4343-8102-cadae0652b8b/T7G8-README.md
